@@ -18,6 +18,12 @@
       "email": "abhay@gmail.com",
       "pass": "abhay",
       "id": 1
+    },
+    {
+      "name": "chunu",
+      "email": "chunu@gmail.com",
+      "pass": "chunu",
+      "id": 2
     }
   ]
 }
